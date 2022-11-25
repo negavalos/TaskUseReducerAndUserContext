@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+h1{
+  color: tomato;
+}
+h5{
+  text-align: center;
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: white;
+}
